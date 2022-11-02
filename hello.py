@@ -1,1 +1,1 @@
-print ('hello mind..........metor request ........')
+print ('hello mind.......................')
